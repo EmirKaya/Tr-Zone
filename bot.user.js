@@ -6,6 +6,8 @@
 // @author       Emir Kaya
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
+// @updateURL    https://raw.githubusercontent.com/EmirKaya/Tr-Zone/master/bot.user.js
+// @downloadURL  https://raw.githubusercontent.com/EmirKaya/Tr-Zone/master/bot.user.js
 // @homepage     https://github.com/EmirKaya/TrZone-MiniMap
 // @grant        none
 // ==/UserScript==
