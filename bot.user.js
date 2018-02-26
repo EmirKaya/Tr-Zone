@@ -7,8 +7,6 @@
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/EmirKaya/TrZone-MiniMap
-// @updateURL    https://raw.githubusercontent.com/EmirKaya/Tr-Zone/master/Bot.user.js
-// @downloadURL  https://raw.githubusercontent.com/EmirKaya/Tr-Zone/master/Bot.user.js
 // @grant        none
 // ==/UserScript==
 
